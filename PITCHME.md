@@ -1,1 +1,4 @@
-# itandi-intern-introduction
+# 大阪からやってきた **がっちゃん**
+## yuki.koga 古賀 友輝
+
+---
