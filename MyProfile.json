@@ -1,0 +1,7 @@
+{
+  "languages" : ["JavaScript", "Java", "Ruby"],
+  "frameworks" : ["Vue.js", "React.js", "jQuery", "Spring Framework", "Java EE", "Ruby on Rails", "sinatra"],
+  "tools" : ["Git", "GitHub", "Slack", "kintone", "Google Office Software"],
+  "editor" : ["VSCode", "IntelliJ IDEA"],
+  "OS" : "Ubuntu 14.04"
+}
