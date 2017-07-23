@@ -91,5 +91,9 @@
 
 ---
 
+# よろしくお願いします！
+
+---
+
 ### ご清聴ありがとうございました！
 <img src='https://avatars2.githubusercontent.com/u/16623885' width="400px" height="400px">
