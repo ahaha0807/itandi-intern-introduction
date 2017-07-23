@@ -45,7 +45,7 @@
 
 ## 学校では部活の部長をやってます
 ### https://itc.moe
-<img src='https://itc.moe/assets/images/itc-sticker.png' width="400px" height="400px">
+<img src='https://itc.moe/assets/images/itc-sticker.png' width="500px" height="400px">
 
 ### いろんなものづくり好きが集まった部活です
 
@@ -56,15 +56,31 @@
 ---
 
 # 関西人のトリセツ
-
+![](https://images-fe.ssl-images-amazon.com/images/I/51vtuWB95nL.jpg)
 
 ---
 
 ## 関西人って
 
-+++ 
+---
 
 ## 噂通り
 
++++
+
+### エセ関西弁に厳しい
+### 「なんか面白いことやってよ！」って言うと怒る
+
+---
+
+# のでご注意を！
+
+---
+
+# でもこれが
+
++++
+
 <img src='http://livedoor.blogimg.jp/jin115/imgs/a/3/a307d640.jpg'>
 
+---
