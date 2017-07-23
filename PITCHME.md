@@ -43,9 +43,14 @@
 
 ---
 
+## サイボウズ株式会社でエンジニアアルバイトやってます
+![](http://npo-sc.org/ncolle/wp-content/uploads/2016/06/cybozulogo.png)
+
+---
+
 ## 学校では部活の部長をやってます
 ### https://itc.moe
-<img src='https://itc.moe/assets/images/itc-sticker.png' width="500px" height="400px">
+<img src='https://itc.moe/assets/images/itc-sticker.png' width="300px" height="200px">
 
 ### いろんなものづくり好きが集まった部活です
 
@@ -66,7 +71,7 @@
 
 ## 噂通り
 
-+++
+---
 
 ### エセ関西弁に厳しい
 ### 「なんか面白いことやってよ！」って言うと怒る
@@ -79,8 +84,11 @@
 
 # でもこれが
 
-+++
+---
 
 <img src='http://livedoor.blogimg.jp/jin115/imgs/a/3/a307d640.jpg'>
 
 ---
+
+# ご清聴ありがとうございました！
+![](https://avatars2.githubusercontent.com/u/16623885)
