@@ -45,7 +45,7 @@
 
 ## 学校では部活の部長をやってます
 ### https://itc.moe
-<img src='https://itc.moe/assets/images/itc-sticker.webp' width="400px" height="400px">
+<img src='https://itc.moe/assets/images/itc-sticker.png' width="400px" height="400px">
 
 ### いろんなものづくり好きが集まった部活です
 
