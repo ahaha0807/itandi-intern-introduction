@@ -19,7 +19,7 @@
 - Qiita: ahaha0807_alg
 - Slack: yuki.koga
 
-<img src='https://avatars2.githubusercontent.com/u/16623885' width="100px" height="100px">
+<img src='https://avatars2.githubusercontent.com/u/16623885' width="200px" height="200px">
 
 ---
 
