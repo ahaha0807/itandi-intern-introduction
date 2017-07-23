@@ -42,3 +42,29 @@
 ##### 基本 Web系エンジニアです。
 
 ---
+
+## 学校では部活の部長をやってます
+### https://itc.moe
+<img src='https://itc.moe/assets/images/itc-sticker.webp' width="400px" height="400px">
+
+### いろんなものづくり好きが集まった部活です
+
+---
+
+# 最後に
+
+---
+
+# 関西人のトリセツ
+
+
+---
+
+## 関西人って
+
++++ 
+
+## 噂通り
+
+<img src='http://livedoor.blogimg.jp/jin115/imgs/a/3/a307d640.jpg'>
+
