@@ -12,7 +12,7 @@
 
 ---
 
-## まずはこの顔とアカウントとの紐付け
+### まずはこの顔とアカウントとの紐付け
 
 - Twitter: ahaha0807_alg
 - GitHub: ahaha0807
@@ -23,6 +23,6 @@
 
 ---?code=MyProfile.json
 
-#### 次にTECHの情報
+#### 次にTECH系の情報
 
 ---
