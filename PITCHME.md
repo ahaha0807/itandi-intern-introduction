@@ -1,5 +1,3 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/ahaha0807/itandi-intern-introduction/master?grs=github&t=white)
-
 # 大阪からやってきた **がっちゃん**
 ## yuki.koga 古賀 友輝
 
