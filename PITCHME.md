@@ -21,18 +21,8 @@
 
 <img src='https://avatars2.githubusercontent.com/u/16623885' width="200px" height="200px">
 
----
+---?code=MyProfile.json
 
 #### 次にTECHの情報
-
-```json:MyProfile.json
-{
-  languages: ['JavaScript', 'Java', 'Ruby'],
-  frameworks: ['Vue.js', 'React.js', 'jQuery', 'Spring Framework', 'Java EE', 'Ruby on Rails', 'sinatra'],
-  tools: ['Git', 'GitHub', 'Slack', 'kintone', 'Google Office Soft'],
-  editor: ['VSCode', 'IntelliJ IDEA'],
-  OS: 'Ubuntu 14.04'
-}
-```
 
 ---
