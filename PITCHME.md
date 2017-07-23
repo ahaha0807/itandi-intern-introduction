@@ -26,7 +26,7 @@
 ### 趣味とかとか
 
 - ステッカー集め
-- AAA と **SKY-HI** と ラッパー好き（まだまだにわか）|
+- **AAA と SKY-HI と ラッパー好き（まだまだにわか）** |
 - 美味しいメロンパン探し |
 - IT勉強会とかハッカソンとかめっちゃ好き |
 - ガッツリダーツしたい |
@@ -34,7 +34,7 @@
 ---
 
 #### **けものフレンズの中ではライオンちゃんが一番可愛いと思います** 
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPgiIbN5IzlhSEKaOCnNh7bc6w4ZXXp4TWzXKkdXsmUklL-sH' width="400px" height="200px">
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPgiIbN5IzlhSEKaOCnNh7bc6w4ZXXp4TWzXKkdXsmUklL-sH' width="800px" height="400px">
 
 ---?code=MyProfile.json
 
