@@ -23,7 +23,7 @@
 
 ---
 
-## 次にTECH情報
+#### 次にTECHの情報
 
 ```json:MyProfile.json
 {
