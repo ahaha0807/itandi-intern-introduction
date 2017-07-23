@@ -5,7 +5,7 @@
 
 # はじめまして
 
----
++++
 
 # がっちゃんです
 ![](https://avatars2.githubusercontent.com/u/16623885)
@@ -21,8 +21,20 @@
 
 <img src='https://avatars2.githubusercontent.com/u/16623885' width="200px" height="200px">
 
+---
+
+### 趣味とかとか
+
+- ステッカー集め
+- AAA と SKY-HI と ラッパー好き（まだまだにわか）|
+- 美味しいメロンパン探し |
+- IT勉強会とかハッカソンとかめっちゃ好き |
+- **けものフレンズの中ではライオンちゃんが一番可愛いと思います** |
+- <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPgiIbN5IzlhSEKaOCnNh7bc6w4ZXXp4TWzXKkdXsmUklL-sH' width="150px" height="75px"> |
+
 ---?code=MyProfile.json
 
 #### 次にTECH系の情報
+##### 基本 Web系エンジニアです。
 
 ---
