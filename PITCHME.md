@@ -60,6 +60,7 @@
 <img src='https://itc.moe/assets/images/itc-sticker.png' width="200px" height="250px">
 
 #### いろんなものづくり好きが集まった部活です
+#### Innovation Things Create Club(革新的なものを作るクラブ)
 
 ---
 
