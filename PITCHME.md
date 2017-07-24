@@ -49,7 +49,7 @@
 
 ---
 
-### サイボウズ株式会社でエンジニアアルバイトやってます
+### サイボウズ株式会社で1年ちょいエンジニアアルバイトやってます
 ![](http://npo-sc.org/ncolle/wp-content/uploads/2016/06/cybozulogo.png)
 
 ---
